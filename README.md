@@ -1,8 +1,9 @@
 # SEL0337 - Prática 4: Protocolos de comunicação em sistemas embarcados de alto nível
 
+-- Davi Andrade Laet - 15697361
+
 -- Giovanne Tomaszewski Grecco - 16228852
 
--- Davi Andrade Laet - 15697361
 
 A prática foi programada em python e C++, e implementada em Raspberry Pi e Arduino, respectivamente. Além disso, a integração entre as duas placas foi feita a partir de um módulo de conexão I2C e uma protoboard. Para o checkpoint 2 também utilizou-se um potenciômetro.
 
